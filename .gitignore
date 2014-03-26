@@ -1,2 +1,4 @@
 *.png
 .fuse_hidden*
+*.pdf
+*.tar.gz

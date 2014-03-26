@@ -1,0 +1,120 @@
+make: Nothing to be done for `all'.
+make: `convert' is up to date.
+iter  1 act 5.761e-03 pre 5.723e-03 delta 7.988e-02 f 5.199e-02 |g| 1.500e-01 CG   2
+iter  2 act 1.163e-06 pre 1.162e-06 delta 7.988e-02 f 4.622e-02 |g| 2.192e-03 CG   1
+iter  1 act 1.956e-03 pre 1.950e-03 delta 4.293e-02 f 5.199e-02 |g| 9.112e-02 CG   1
+iter  2 act 3.578e-05 pre 3.578e-05 delta 4.293e-02 f 5.003e-02 |g| 8.658e-03 CG   2
+iter  1 act 1.520e-03 pre 1.519e-03 delta 4.648e-02 f 5.199e-02 |g| 6.985e-02 CG   2
+Accuracy = 33.3333% (25/75)
+iter  1 act 1.616e-01 pre 1.551e-01 delta 3.582e-01 f 5.199e-01 |g| 1.500e+00 CG   2
+iter  2 act 1.614e-03 pre 1.578e-03 delta 3.582e-01 f 3.583e-01 |g| 1.644e-01 CG   2
+iter  3 act 1.987e-06 pre 1.985e-06 delta 3.582e-01 f 3.567e-01 |g| 5.657e-03 CG   2
+iter  1 act 4.227e-02 pre 4.178e-02 delta 1.413e-01 f 5.199e-01 |g| 9.112e-01 CG   2
+iter  2 act 6.876e-05 pre 6.872e-05 delta 1.413e-01 f 4.776e-01 |g| 2.498e-02 CG   2
+iter  1 act 6.962e-02 pre 6.878e-02 delta 2.878e-01 f 5.199e-01 |g| 6.985e-01 CG   2
+iter  2 act 7.817e-05 pre 7.811e-05 delta 2.878e-01 f 4.502e-01 |g| 2.518e-02 CG   2
+Accuracy = 66.6667% (50/75)
+iter  1 act 3.220e+00 pre 2.907e+00 delta 1.003e+00 f 5.199e+00 |g| 1.500e+01 CG   2
+iter  2 act 2.520e-01 pre 2.218e-01 delta 1.003e+00 f 1.979e+00 |g| 3.766e+00 CG   2
+iter  3 act 1.590e-02 pre 1.505e-02 delta 1.003e+00 f 1.727e+00 |g| 9.192e-01 CG   2
+iter  4 act 1.380e-04 pre 1.372e-04 delta 1.003e+00 f 1.711e+00 |g| 8.140e-02 CG   2
+iter  1 act 6.519e-01 pre 6.255e-01 delta 3.623e-01 f 5.199e+00 |g| 9.112e+00 CG   2
+iter  2 act 4.092e-02 pre 4.081e-02 delta 3.623e-01 f 4.547e+00 |g| 6.333e-01 CG   3
+iter  1 act 1.848e+00 pre 1.670e+00 delta 8.636e-01 f 5.199e+00 |g| 6.985e+00 CG   2
+iter  2 act 1.434e-01 pre 1.297e-01 delta 8.636e-01 f 3.351e+00 |g| 1.905e+00 CG   2
+iter  3 act 1.015e-02 pre 1.011e-02 delta 8.636e-01 f 3.207e+00 |g| 3.419e-01 CG   3
+Accuracy = 81.3333% (61/75)
+iter  1 act 3.830e+01 pre 3.341e+01 delta 1.264e+00 f 5.199e+01 |g| 1.500e+02 CG   2
+iter  2 act 6.640e+00 pre 5.364e+00 delta 1.264e+00 f 1.368e+01 |g| 4.248e+01 CG   2
+iter  3 act 1.745e+00 pre 1.457e+00 delta 1.264e+00 f 7.044e+00 |g| 1.570e+01 CG   2
+iter  4 act 2.696e-01 pre 2.391e-01 delta 1.264e+00 f 5.298e+00 |g| 5.278e+00 CG   2
+iter  5 act 1.404e-02 pre 1.344e-02 delta 1.264e+00 f 5.029e+00 |g| 1.210e+00 CG   2
+iter  1 act 7.338e+00 pre 6.912e+00 delta 4.482e-01 f 5.199e+01 |g| 9.112e+01 CG   2
+cg reaches trust region boundary
+iter  2 act 1.114e+00 pre 1.045e+00 delta 5.447e-01 f 4.465e+01 |g| 8.405e+00 CG   2
+cg reaches trust region boundary
+iter  3 act 1.214e+00 pre 1.241e+00 delta 6.932e-01 f 4.353e+01 |g| 4.705e+00 CG   3
+iter  4 act 4.430e-01 pre 4.346e-01 delta 6.932e-01 f 4.232e+01 |g| 2.846e+00 CG   3
+iter  5 act 3.948e-04 pre 3.938e-04 delta 6.932e-01 f 4.188e+01 |g| 5.222e-01 CG   2
+iter  1 act 2.317e+01 pre 1.994e+01 delta 1.114e+00 f 5.199e+01 |g| 6.985e+01 CG   2
+iter  2 act 6.388e+00 pre 4.852e+00 delta 1.114e+00 f 2.882e+01 |g| 2.739e+01 CG   2
+iter  3 act 3.623e+00 pre 2.947e+00 delta 1.362e+00 f 2.243e+01 |g| 1.250e+01 CG   2
+iter  4 act 5.873e-01 pre 5.537e-01 delta 1.362e+00 f 1.880e+01 |g| 4.268e+00 CG   2
+iter  5 act 1.285e-02 pre 1.280e-02 delta 1.362e+00 f 1.822e+01 |g| 6.252e-01 CG   2
+Accuracy = 96% (72/75)
+iter  1 act 3.911e+02 pre 3.395e+02 delta 1.300e+00 f 5.199e+02 |g| 1.500e+03 CG   2
+iter  2 act 7.669e+01 pre 6.070e+01 delta 1.300e+00 f 1.288e+02 |g| 4.300e+02 CG   2
+iter  3 act 2.828e+01 pre 2.241e+01 delta 1.300e+00 f 5.211e+01 |g| 1.648e+02 CG   2
+iter  4 act 9.746e+00 pre 7.852e+00 delta 1.300e+00 f 2.383e+01 |g| 6.261e+01 CG   2
+iter  5 act 2.574e+00 pre 2.154e+00 delta 1.300e+00 f 1.408e+01 |g| 2.308e+01 CG   2
+iter  6 act 3.800e-01 pre 3.383e-01 delta 1.300e+00 f 1.151e+01 |g| 7.734e+00 CG   2
+iter  1 act 7.443e+01 pre 6.993e+01 delta 4.594e-01 f 5.199e+02 |g| 9.112e+02 CG   2
+cg reaches trust region boundary
+iter  2 act 1.261e+01 pre 1.183e+01 delta 6.217e-01 f 4.454e+02 |g| 8.694e+01 CG   2
+cg reaches trust region boundary
+iter  3 act 1.575e+01 pre 1.636e+01 delta 8.074e-01 f 4.328e+02 |g| 4.869e+01 CG   3
+cg reaches trust region boundary
+iter  4 act 1.431e+01 pre 1.391e+01 delta 1.249e+00 f 4.171e+02 |g| 4.754e+01 CG   3
+iter  5 act 4.158e+00 pre 3.968e+00 delta 1.249e+00 f 4.028e+02 |g| 1.685e+01 CG   3
+iter  6 act 4.852e-02 pre 4.814e-02 delta 1.249e+00 f 3.986e+02 |g| 7.380e+00 CG   3
+iter  1 act 2.379e+02 pre 2.034e+02 delta 1.149e+00 f 5.199e+02 |g| 6.985e+02 CG   2
+iter  2 act 7.818e+01 pre 5.736e+01 delta 1.340e+00 f 2.819e+02 |g| 2.847e+02 CG   2
+cg reaches trust region boundary
+iter  3 act 6.390e+01 pre 5.335e+01 delta 2.410e+00 f 2.038e+02 |g| 1.451e+02 CG   2
+iter  4 act 4.633e+01 pre 3.738e+01 delta 2.892e+00 f 1.399e+02 |g| 5.410e+01 CG   2
+iter  5 act 1.140e+01 pre 9.788e+00 delta 2.892e+00 f 9.354e+01 |g| 2.532e+01 CG   2
+iter  6 act 1.193e+00 pre 1.125e+00 delta 2.892e+00 f 8.214e+01 |g| 8.483e+00 CG   2
+Accuracy = 97.3333% (73/75)
+iter  1 act 3.919e+03 pre 3.400e+03 delta 1.303e+00 f 5.199e+03 |g| 1.500e+04 CG   2
+iter  2 act 7.787e+02 pre 6.149e+02 delta 1.303e+00 f 1.280e+03 |g| 4.305e+03 CG   2
+iter  3 act 2.991e+02 pre 2.353e+02 delta 1.303e+00 f 5.010e+02 |g| 1.655e+03 CG   2
+iter  4 act 1.172e+02 pre 9.235e+01 delta 1.303e+00 f 2.019e+02 |g| 6.355e+02 CG   2
+iter  5 act 4.422e+01 pre 3.507e+01 delta 1.303e+00 f 8.468e+01 |g| 2.419e+02 CG   2
+iter  6 act 1.506e+01 pre 1.214e+01 delta 1.303e+00 f 4.046e+01 |g| 9.111e+01 CG   2
+iter  1 act 7.454e+02 pre 7.002e+02 delta 4.605e-01 f 5.199e+03 |g| 9.112e+03 CG   2
+cg reaches trust region boundary
+iter  2 act 1.277e+02 pre 1.197e+02 delta 6.303e-01 f 4.453e+03 |g| 8.724e+02 CG   2
+cg reaches trust region boundary
+iter  3 act 1.609e+02 pre 1.676e+02 delta 8.148e-01 f 4.326e+03 |g| 4.888e+02 CG   3
+cg reaches trust region boundary
+iter  4 act 1.555e+02 pre 1.511e+02 delta 1.322e+00 f 4.165e+03 |g| 5.006e+02 CG   3
+iter  5 act 5.954e+01 pre 5.602e+01 delta 1.322e+00 f 4.009e+03 |g| 1.859e+02 CG   3
+iter  6 act 1.029e+00 pre 1.015e+00 delta 1.322e+00 f 3.950e+03 |g| 1.071e+02 CG   3
+iter  1 act 2.386e+03 pre 2.038e+03 delta 1.152e+00 f 5.199e+03 |g| 6.985e+03 CG   2
+iter  2 act 7.984e+02 pre 5.836e+02 delta 1.369e+00 f 2.813e+03 |g| 2.859e+03 CG   2
+cg reaches trust region boundary
+iter  3 act 6.752e+02 pre 5.660e+02 delta 2.575e+00 f 2.015e+03 |g| 1.473e+03 CG   2
+iter  4 act 5.867e+02 pre 4.577e+02 delta 3.528e+00 f 1.339e+03 |g| 5.551e+02 CG   2
+iter  5 act 2.563e+02 pre 2.005e+02 delta 3.941e+00 f 7.527e+02 |g| 2.909e+02 CG   2
+iter  6 act 1.078e+02 pre 8.616e+01 delta 4.216e+00 f 4.964e+02 |g| 1.287e+02 CG   2
+iter  7 act 3.896e+01 pre 3.308e+01 delta 4.216e+00 f 3.887e+02 |g| 3.836e+01 CG   3
+iter  8 act 3.948e+00 pre 3.691e+00 delta 4.216e+00 f 3.497e+02 |g| 2.517e+01 CG   3
+Accuracy = 98.6667% (74/75)
+iter  1 act 3.920e+04 pre 3.401e+04 delta 1.304e+00 f 5.199e+04 |g| 1.500e+05 CG   2
+iter  2 act 7.799e+03 pre 6.157e+03 delta 1.304e+00 f 1.279e+04 |g| 4.306e+04 CG   2
+iter  3 act 3.009e+03 pre 2.364e+03 delta 1.304e+00 f 4.990e+03 |g| 1.656e+04 CG   2
+iter  4 act 1.195e+03 pre 9.392e+02 delta 1.304e+00 f 1.981e+03 |g| 6.364e+03 CG   2
+iter  5 act 4.707e+02 pre 3.705e+02 delta 1.304e+00 f 7.864e+02 |g| 2.429e+03 CG   2
+iter  6 act 1.823e+02 pre 1.438e+02 delta 1.304e+00 f 3.157e+02 |g| 9.229e+02 CG   2
+iter  1 act 7.455e+03 pre 7.002e+03 delta 4.607e-01 f 5.199e+04 |g| 9.112e+04 CG   2
+cg reaches trust region boundary
+iter  2 act 1.278e+03 pre 1.199e+03 delta 6.312e-01 f 4.453e+04 |g| 8.727e+03 CG   2
+cg reaches trust region boundary
+iter  3 act 1.613e+03 pre 1.680e+03 delta 8.154e-01 f 4.325e+04 |g| 4.890e+03 CG   3
+cg reaches trust region boundary
+iter  4 act 1.568e+03 pre 1.523e+03 delta 1.330e+00 f 4.164e+04 |g| 5.031e+03 CG   3
+iter  5 act 6.165e+02 pre 5.791e+02 delta 1.330e+00 f 4.007e+04 |g| 1.877e+03 CG   3
+iter  6 act 1.113e+01 pre 1.097e+01 delta 1.330e+00 f 3.946e+04 |g| 1.110e+03 CG   3
+iter  1 act 2.386e+04 pre 2.039e+04 delta 1.153e+00 f 5.199e+04 |g| 6.985e+04 CG   2
+iter  2 act 8.001e+03 pre 5.846e+03 delta 1.372e+00 f 2.812e+04 |g| 2.860e+04 CG   2
+cg reaches trust region boundary
+iter  3 act 6.789e+03 pre 5.693e+03 delta 2.593e+00 f 2.012e+04 |g| 1.476e+04 CG   2
+iter  4 act 6.010e+03 pre 4.671e+03 delta 3.603e+00 f 1.333e+04 |g| 5.566e+03 CG   2
+iter  5 act 2.806e+03 pre 2.166e+03 delta 4.267e+00 f 7.323e+03 |g| 2.949e+03 CG   2
+iter  6 act 1.462e+03 pre 1.122e+03 delta 5.481e+00 f 4.518e+03 |g| 1.337e+03 CG   2
+cg reaches trust region boundary
+iter  7 act 9.049e+02 pre 6.903e+02 delta 8.139e+00 f 3.056e+03 |g| 4.085e+02 CG   2
+cg reaches trust region boundary
+iter  8 act 5.909e+02 pre 4.668e+02 delta 1.136e+01 f 2.151e+03 |g| 2.839e+02 CG   3
+iter  9 act 1.979e+02 pre 1.691e+02 delta 1.136e+01 f 1.560e+03 |g| 3.128e+02 CG   3
+Accuracy = 98.6667% (74/75)
