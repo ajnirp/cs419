@@ -7,13 +7,13 @@ def make_plot(filename, graph_title, xs, ys):
 	plt.xlabel('k')
 	plt.ylabel('accuracy')
 	plt.plot(xs, ys)
-	plt.savefig('plots/'+filename)
+	plt.savefig(filename)
 	plt.close()
 
 training_set = []
 validation_set = []
 
-with open('iris.data.txt.bak', 'r') as f:
+with open('iris.data.txt', 'r') as f:
 	for index, line in enumerate(f.readlines()):
 		if (0 <= index < 25) or (50 <= index < 75) or (100 <= index < 125):
 			training_set.append(tuple(line[:-1].split(',')))
